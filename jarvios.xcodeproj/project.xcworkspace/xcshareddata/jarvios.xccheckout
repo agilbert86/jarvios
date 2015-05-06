@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C3B9C96-CE28-4A0D-9195-56EABE1E306A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>jarvios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF2AC0FB6B3CCDA3AD5977BFAAFA5D88D574924A</key>
+		<string>https://github.com/agilbert86/jarvios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>jarvios.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF2AC0FB6B3CCDA3AD5977BFAAFA5D88D574924A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/agilbert86/jarvios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF2AC0FB6B3CCDA3AD5977BFAAFA5D88D574924A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF2AC0FB6B3CCDA3AD5977BFAAFA5D88D574924A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jarvios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
