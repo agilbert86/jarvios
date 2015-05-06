@@ -1,0 +1,28 @@
+{
+	"projectName": "jarvios",
+	"prebuildScript":"prebuild.sh",
+	"buildFlavors": [
+		{
+			"name":"dev",
+			"configScript":"dev.sh"
+		}
+	],
+	"ios":{
+		"scheme":"jarvios",
+		"projectName":"jarvios",
+		"projectPath":"",
+		"projectFile":"jarvios.xcodeproj",
+		"signingCredentials":{
+			"provisioningProfile": "Appirio Mobile Apps Dev"
+		}
+	},
+	"hockeyApp": {
+		"dev":{
+	 		"appTitle": "jarvios",
+	 		"bundleIdentifier": "com.appirio.mobile.jarvios",
+	 		"platform":"iOS",
+	 		"hockeyAppToken":"b74bea0ce3d94eb4a2212c1350e960f6"
+ 		}
+ 	},
+	"postbuildScript": "postbuild.sh"
+}
